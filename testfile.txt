@@ -1,8 +1,8 @@
 testfile for keto.c
 
 line 3
-
-
+    testtab
+                        testtabb
 line 6
 
 
@@ -16,7 +16,7 @@ line 6
 
 
 
-
+        
 
 
 
